@@ -1,4 +1,4 @@
-# movies_rating
+# Movies Rating
 
 A new Flutter project.
 
